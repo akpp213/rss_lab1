@@ -117,6 +117,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/racecar/rss_lab1/rss_lab1/build/gtest/cmake_install.cmake")
+  include("/home/racecar/rss_lab1/rss_lab1/build/ros_exercises/cmake_install.cmake")
 
 endif()
 
