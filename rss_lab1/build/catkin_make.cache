@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/racecar/rss_lab1/rss_lab1/devel -DCMAKE_INSTALL_PREFIX=/home/racecar/rss_lab1/rss_lab1/install -G Unix Makefiles
