@@ -3,6 +3,6 @@ prefix=/home/racecar/rss_lab1/rss_lab1/devel
 Name: ros_exercises
 Description: Description of ros_exercises
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/racecar/rss_lab1/rss_lab1/devel/include
 Libs: -L/home/racecar/rss_lab1/rss_lab1/devel/lib 
-Requires: 
+Requires: message_runtime

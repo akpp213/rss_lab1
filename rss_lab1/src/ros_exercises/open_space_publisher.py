@@ -4,16 +4,18 @@ import math
 import rospy
 from std_msgs.msg import Float32
 from sensor_msgs.msg import LaserScan
+from ros_exercises.msg import OpenSpace
 
 def callback(data):
+     space = OpenSpace()
      longest = max(data.ranges)
      angle = data.angle_min + data.angle_increment*data.ranges.index(longest)
-     pub1 = rospy.Publisher('open_space/distance', Float32, queue_size=10)
-     pub2 = rospy.Publisher('open_space/angle', Float32, queue_size = 10)
+     pub = rospy.Publisher('open_space', OpenSpace, queue_size = 10)
+     space.distance = longest
+     space.angle = angle
      rospy.loginfo(longest)
      rospy.loginfo(angle)
-     pub1.publish(longest)
-     pub2.publish(angle)
+     pub.publish(space)
 
 def open_space_publisher():
 

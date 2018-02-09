@@ -1,2 +1,15 @@
 # Hashes of file build rules.
+ea921127897b0bec741ce37979efafa8 /home/racecar/rss_lab1/rss_lab1/devel/include/ros_exercises/OpenSpace.h
+b059a2c56155979fff9d33d9428af1f1 /home/racecar/rss_lab1/rss_lab1/devel/lib/python2.7/dist-packages/ros_exercises/msg/_OpenSpace.py
+418f42305cb240e3867cc4e2c47dd73b /home/racecar/rss_lab1/rss_lab1/devel/lib/python2.7/dist-packages/ros_exercises/msg/__init__.py
+efd6d1c3498d7b3e5f16c95960a5b15d /home/racecar/rss_lab1/rss_lab1/devel/share/common-lisp/ros/ros_exercises/msg/OpenSpace.lisp
+065a023b08e094890659084145db8ec6 /home/racecar/rss_lab1/rss_lab1/devel/share/gennodejs/ros/ros_exercises/msg/OpenSpace.js
+bcc8da027d1066c84c6024997ab5bce5 /home/racecar/rss_lab1/rss_lab1/devel/share/roseus/ros/ros_exercises/manifest.l
+714bc860b3de12ba09e397093db057ba /home/racecar/rss_lab1/rss_lab1/devel/share/roseus/ros/ros_exercises/msg/OpenSpace.l
 2af610338a1b30036246650ce637c531 CMakeFiles/clean_test_results
+0adadefdc3677d649750feb71e959bbe ros_exercises/CMakeFiles/_ros_exercises_generate_messages_check_deps_OpenSpace
+7cf1d624d93d50fa09583d836603cc46 ros_exercises/CMakeFiles/ros_exercises_generate_messages_cpp
+7cf1d624d93d50fa09583d836603cc46 ros_exercises/CMakeFiles/ros_exercises_generate_messages_eus
+7cf1d624d93d50fa09583d836603cc46 ros_exercises/CMakeFiles/ros_exercises_generate_messages_lisp
+7cf1d624d93d50fa09583d836603cc46 ros_exercises/CMakeFiles/ros_exercises_generate_messages_nodejs
+7cf1d624d93d50fa09583d836603cc46 ros_exercises/CMakeFiles/ros_exercises_generate_messages_py
