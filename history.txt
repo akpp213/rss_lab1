@@ -1,0 +1,17 @@
+commit ed70fd99f44cf5d91695c03b1fa3059f6bd7e308
+Author: Alex <knapping@mit.edu>
+Date:   Mon Feb 12 16:16:39 2018 -0500
+
+    Add files from section 3.4 of Lab1b
+
+commit 958bc9b63fad100cc08d696dceb0badff3df8640
+Author: Alex <knapping@mit.edu>
+Date:   Mon Feb 12 16:02:32 2018 -0500
+
+    linux_exercises.txt: Add lab1a solution file\nThis adds my lab1a solutions to my remote github account\nFixes no problem
+
+commit dbbbf9dc83e8c138fa81ad5cfa0390d2fb079749
+Author: akpp213 <knapping@mit.edu>
+Date:   Mon Feb 12 20:45:16 2018 +0000
+
+    Initial commit
